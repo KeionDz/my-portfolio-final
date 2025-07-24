@@ -14,7 +14,6 @@ import {
   Globe,
   Facebook,
 } from "lucide-react"
-import { sr } from "date-fns/locale"
 
 export default function Portfolio() {
   const [darkMode, setDarkMode] = useState(false)
@@ -475,7 +474,6 @@ export default function Portfolio() {
             Powered by
             <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" className="h-6 w-6 ml-1" />
             <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" className="h-6 w-6 ml-1" />
-            <img src ="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" alt="Svelte" className="h-6 w-6 ml-1" />
             <span className="ml-1">&nbsp;Kdimz © 2025</span>
             <span className="ml-1">All Rights Reserved.</span>
           </p>
