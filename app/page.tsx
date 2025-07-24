@@ -294,7 +294,7 @@ export default function Portfolio() {
         <div className="card-container">
           <h3 className="text-2xl font-bold flex items-center self-center gap-2">About Me</h3>
           <p className="leading-relaxed dark:text-gray-300">
-            Hi, I'm Juliane Kyle B. Dimzon — a software engineer specializing in web development. 
+            Hi, I'm Juliane Kyle B. Dimzon — a graduating student in University of Mindanao and a software engineer that specializes in web development. 
             I also have a strong academic foundation and hands-on experience in software 
             development and system administration. Passionate about leveraging technology to drive innovation, I am 
             seeking a challenging position as a web developer in a technology company. I aim to contribute my skills, 
