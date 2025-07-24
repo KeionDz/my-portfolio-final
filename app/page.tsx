@@ -119,7 +119,7 @@ export default function Portfolio() {
     {
       title: "IT Specialist - HTML and CSS",
       issuer: "Certiport",
-      date: "June 2023",
+      date: "May 2024",
       description:
         "Demonstrate that they can structure a webpage using HTML elements and create and apply styles using CSS.",
       badge: "https://images.credly.com/size/340x340/images/e2dc688d-de61-44a5-81af-ee96f117a211/ITS-Badges_HTML-and-CSS_1200px.png",
@@ -128,7 +128,7 @@ export default function Portfolio() {
     {
       title: "IT Specialist - Cybersecurity",
       issuer: "Certiport",
-      date: "June 2023",
+      date: "March 2025",
       description:
         "Demonstrates knowledge of security principles, best practices for protecting systems and networks, identifying threats, managing vulnerabilities, and implementing risk mitigation strategies.",
       badge: "https://images.credly.com/size/340x340/images/d05c40ff-0e15-4c1d-8c4f-6607e93eda24/ITS-Badges-Cybersecurity.png",
@@ -137,7 +137,7 @@ export default function Portfolio() {
     {
       title: "IT Specialist - Network Security",
       issuer: "Certiport",
-      date: "June 2023",
+      date: "July 2024",
       description:
         "Validates skills in securing network infrastructures, configuring firewalls, managing secure network protocols, and implementing measures to protect data transmission and prevent unauthorized access.",
       badge: "https://images.credly.com/size/340x340/images/fa85b446-fcbf-44c0-991f-064d37ae7a6f/ITS-Badges_Network-Security_1200px.png",
@@ -146,7 +146,7 @@ export default function Portfolio() {
     {
       title: "Networking Academy - Introduction to Cybersecurity",
       issuer: "Cisco",
-      date: "June 2023",
+      date: "August 2024",
       description:
         "Shows understanding of cybersecurity fundamentals, including threat landscapes, types of attacks, ethical responsibilities, and strategies for safeguarding personal and organizational data.",
       badge: "https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png",
