@@ -12,6 +12,7 @@ import {
   Rocket,
   GraduationCap,
   Globe,
+  Facebook,
 } from "lucide-react"
 import { sr } from "date-fns/locale"
 
@@ -434,9 +435,8 @@ export default function Portfolio() {
 
         {/* Socials Section */}
         <div className="card-container">
-          <h3 className="text-xl font-semibold self-start flex items-center gap-2 mb-4">
-            <Globe className="w-5 h-5" />
-            Socials
+          <h3 className="text-xl font-semibold self-center flex items-center gap-2 mb-4">  
+            Contact Me
           </h3>
           <div className="flex flex-col gap-3 w-full">
             <a
@@ -456,6 +456,15 @@ export default function Portfolio() {
             >
               <Linkedin className="w-4 h-4 mr-2" />
               LinkedIn
+            </a>
+            <a
+              href="https://www.facebook.com/KyleBaguioDimzon"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 bg-blue-600 text-white hover:bg-blue-700 dark:bg-blue-700 dark:hover:bg-blue-600 shadow h-10 px-4 py-2 w-full cursor-pointer hover:scale-105 transition-transform duration-200"
+            >
+              <Facebook className="w-4 h-4 mr-2" />
+              Facebook
             </a>
           </div>
         </div>
