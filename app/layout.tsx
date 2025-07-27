@@ -16,7 +16,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-         <link rel="icon" href="../public/images/Kletter.png" />
+         <link rel="icon" href="/Kletter.svg" />
         <style>{`
 html {
   font-family: ${GeistSans.style.fontFamily};
