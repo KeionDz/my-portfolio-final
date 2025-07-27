@@ -5,8 +5,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'kdimz',
-  description: 'Website of Kyle Baguio Dimzon',
-  generator: 'v0.dev',
+  description: 'Website of Kyle Baguio Dimzon'
 }
 
 export default function RootLayout({
@@ -17,6 +16,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
+         <link rel="icon" href="../public/images/Kletter.png" />
         <style>{`
 html {
   font-family: ${GeistSans.style.fontFamily};
@@ -24,6 +24,9 @@ html {
   --font-mono: ${GeistMono.variable};
 }
         `}</style>
+        
+        <link rel="icon" href="/Kletter.png" sizes="any" />
+     
       </head>
       <body>{children}</body>
     </html>
