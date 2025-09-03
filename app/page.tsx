@@ -294,14 +294,14 @@ export default function Portfolio() {
         <div className="card-container">
           <h3 className="text-2xl font-bold flex items-center self-center gap-2">About Me</h3>
           <p className="leading-relaxed dark:text-gray-300">
-            Hi, I'm Juliane Kyle B. Dimzon — a graduating student in University of Mindanao and a software engineer that specializes in web development. 
+            Hi, I’m Juliane Kyle B. Dimzon, a graduate student at the University of Mindanao and a software engineer that specializes in web development. 
             I also have a strong academic foundation and hands-on experience in software 
             development and system administration. Passionate about leveraging technology to drive innovation, I am 
             seeking a challenging position as a web developer in a technology company. I aim to contribute my skills, 
             provide effective solutions, and bring innovative ideas to support the company's growth and success.
           </p>
           <p className="leading-relaxed dark:text-gray-300">
-            One of my recent projects involved developing a comprehensive Time In/Time Out Management System for a company. The system tracks employee attendance, manages time-in and time-out records, and allows employees to request leaves. It also includes role-based access for Admin, Manager, and Staff, ensuring efficient monitoring and approval workflows.
+            One of my recent projects involved developing a comprehensive Project Management System for a company. The system enables teams to create and manage projects, assign tasks, and track progress through a live Kanban board setup. It supports role-based access for Admin, Manager, and Staff, ensuring streamlined collaboration, efficient monitoring, and smooth approval workflows.
           </p>
          
         </div>
